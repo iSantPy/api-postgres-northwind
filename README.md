@@ -1,1 +1,8 @@
 # api-postgres-northwind
+
+# .env file content
+DB_USER=xxx
+DB_PASSWORD=xxx
+DB_HOST=xxx
+DB_PORT=xxx
+DB_NAME=xxx
